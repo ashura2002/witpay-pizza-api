@@ -1,0 +1,6 @@
+@WitpayPizzaApi_HostAddress = http://localhost:5204
+
+GET {{WitpayPizzaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
